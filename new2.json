@@ -1,13 +1,13 @@
 {
-Novolodsky Dmitry Alekseevich
-I am 31 years old
-I have two pets
-In the future, I would like to receive $15,000 per month  
-Любимый фильм : Гарри Поттер
-Любимый сериал : Миллиарды
-Любимая еда : Шашлык
-Любимое время года : Весна
-Страна для посищения : США  
+   "name" : "Novolodsky Dmitry Alekseevich"
+   "old" : "31"
+   "pets" : "2"
+   "like to receive" : "$15,000 per month"  
+   "Любимый фильм" : "Гарри Поттер"
+   "Любимый сериал" : "Миллиарды"
+   "Любимая еда" : "Шашлык"
+   "Любимое время года" : "Весна"
+   "Страна для посищения" : "США"  
 }
 
 
